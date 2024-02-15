@@ -1,0 +1,143 @@
+[
+  {
+    "id": 0,
+    "name": "American Fries",
+    "image": "american_fries",
+    "price": 36.00,
+    "time": 15,
+    "description": "Nossas Deliciosas Batatas, Creme Azedo, Pastrami, Delicioso Queijo Fundido e Cebolinha.",
+    "type": "Entries",
+    "ischecked": false
+  },
+  {
+    "id": 1,
+    "name": "Rump Steak",
+    "image": "rump_steak",
+    "price": 108.00,
+    "time": 25,
+    "description": "Picanha Bovina Fatiada com Batata Rústica da Casa. Acompanha Alho e Chimichurri!",
+    "type": "Entries",
+    "ischecked": false
+  },
+  {
+    "id": 2,
+    "name": "Onion Rings",
+    "image": "onion_rings",
+    "price": 30.80,
+    "time": 10,
+    "description": "Saborosos Anéis de cebola Empanados e Fritos com Molho barbecue para Acompanhar.",
+    "type": "Entries",
+    "ischecked": false
+  },
+  {
+    "id": 3,
+    "name": "Almofadinha",
+    "image": "almofadinha",
+    "price": 20.00,
+    "time": 20,
+    "description": "12 Queijos ordo´s empanado,acompanha maionese da casa",
+    "type": "Entries",
+    "ischecked": false
+  },
+  {
+    "id": 4,
+    "name": "Crispy Burguer",
+    "image": "crispy_burguer",
+    "price": 21.00,
+    "time": 20,
+    "description": "Saboroso Burguer: Delicioso Blend da casa com Queijo da Casa, Cebola Crispy e Molho Barbecue para fechar com chave de ouro!",
+    "type": "MainPlates",
+    "ischecked": false
+  },
+  {
+    "id": 5,
+    "name": "Cheese Burguer",
+    "image": "cheese_burguer",
+    "price": 25.00,
+    "time": 25,
+    "description": "Burguer da casa 100g Maionese da casa ,Queijo ordo´s e cebola tostada",
+    "type": "MainPlates",
+    "ischecked": false
+  },
+  {
+    "id": 6,
+    "name": "American",
+    "image": "american",
+    "price": 26.00,
+    "time": 25,
+    "description": "Saboroso Smash Burguer, queijo Ordo´s, maionese da casa, alface, tomate, cebola e bacon.",
+    "type": "MainPlates",
+    "ischecked": false
+  },
+  {
+    "id": 7,
+    "name": "Pork Punk",
+    "image": "pork_punk",
+    "price": 38.50,
+    "time": 20,
+    "description": "Maravilhoso Burguer da casa: Blend Suculento com queijo meia cura fundido, onion ring, pulled pork e bbq. Tudo isso em um delicioso pão de centeio.",
+    "type": "MainPlates",
+    "ischecked": false
+  },
+  {
+    "id": 8,
+    "name": "Oreo Shake",
+    "image": "oreo_shake",
+    "price": 30.00,
+    "time": 10,
+    "description": "Milkshake de oreo",
+    "type": "Drinks",
+    "ischecked": false
+  },
+  {
+    "id": 9,
+    "name": "Brownie Shake",
+    "image": "brownie_shake",
+    "price": 32.00,
+    "time": 10,
+    "description": "Milkshake de Brownie",
+    "type": "Drinks",
+    "ischecked": false
+  },
+  {
+    "id": 10,
+    "name": "Frozen Yogurt",
+    "image": "frozen_yogurt",
+    "price": 21.00,
+    "time": 10,
+    "description": "Sorvete mais consistente de morango.",
+    "type": "Desserts",
+    "ischecked": false
+  },
+  {
+    "id": 11,
+    "name": "Tiramsu",
+    "image": "tiramsu",
+    "price": 25.00,
+    "time": 25,
+    "description": "Em sua composição, nossa receita leva o queijo mascarpone, preparado a perfeição: pouco doce e bem aveludado; o biscoito savoiardi é feito de forma artesanal e embebido na calda de café aromatizada com vinho Marsala Italiano. Para finalizar, cacau em pó e chocolate",
+    "type": "Desserts",
+    "ischecked": false
+  },
+  {
+    "id": 12,
+    "name": "Cheescake",
+    "image": "cheesecake",
+    "price": 36.00,
+    "time": 35,
+    "description": "Cheesecake Original Americano, assado na medida certa, com sabor e textura incomparáveis, prove e comprove!",
+    "type": "Desserts",
+    "ischecked": false
+  },
+  {
+    "id": 13,
+    "name": "Poptarts",
+    "image": "poptarts",
+    "price": 16.50,
+    "time": 20,
+    "description": "Pop Tart é um bisboito coreano, amanteigado que derrete na boca e com um saborzinho de leite em pó. Recheio molhadinho de abacaxi, coco e canela.",
+    "type": "Desserts",
+    "ischecked": false
+  }
+
+]

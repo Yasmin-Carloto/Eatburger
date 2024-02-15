@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bg_orange_gradient">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:rotation="21.28"
+        android:src="@drawable/background_cheeseburguer" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="32dp">
+
+        <TextView
+            android:id="@+id/text_eat_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_black"
+            android:letterSpacing="-0.15"
+            android:text="@string/app_name_part_one"
+            android:textAllCaps="true"
+            android:textSize="96sp"
+            android:textColor="@color/white"
+            android:shadowColor="@color/black"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-32dp"
+            android:fontFamily="@font/montserrat_light"
+            android:text="@string/app_name_part_two"
+            android:textSize="69sp"
+            android:shadowColor="@color/black"
+            android:textColor="@color/white"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="3"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_goto_sheet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginBottom="90dp"
+        android:textSize="26sp"
+        android:textColor="@color/orange"
+        android:text="@string/text_button_introduction"
+        android:background="@drawable/bg_button_pattern"
+        app:backgroundTint="@null"/>
+
+</RelativeLayout>
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EATburger - Cardápio Digital</string>
+    <string name="app_name_part_one">eat</string>
+    <string name="app_name_part_two">burger</string>
+    <string name="text_button_introduction">Vamos Lá</string>
+    <string name="text_table_number">Digite o número da sua mesa:</string>
+    <string name="button_ok">Ok</string>
+    <string name="edit_table_hint">Números de 1 a 10</string>
+    <string name="image_description_cart">Carrinho de compras</string>
+    <string name="text_catch_phrase_part_one_thin">Escolha o </string>
+    <string name="text_catch_phrase_part_one_bold">hamburger</string>
+    <string name="text_catch_phrase_part_two_thin">que melhor se </string>
+    <string name="text_catch_phrase_part_two_bold">encaixa</string>
+    <string name="text_catch_phrase_part_three_thin">com a sua</string>
+    <string name="text_catch_phrase_part_three_bold">fome</string>
+    <string name="text_add">adicionar</string>
+    <string name="text_added">adicionado</string>
+    <string name="button_make_order">Realizar pedido!</string>
+    <string name="text_total">total</string>
+    <string name="text_instructions">Para utilizar o app, clique no tipo do prato que deseja selecionar e selecione os pratos de sua preferência. Ao selecionar todos os pratos, clique no botão Realizar pedido! e faça seu pedido.</string>
+    <string name="edit_food_hint">Escreva as suas preferências...</string>
+</resources>
